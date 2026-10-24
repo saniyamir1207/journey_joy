@@ -1,4 +1,4 @@
-# Journey Joy
+see# Journey Joy
 
 Journey Joy is a railway services prototype that brings passenger-facing journeys and railway operations tools together in one web application. The interface explores a connected experience for booking, passenger rewards, cleanliness reporting, lost and found, and railway intelligence.
 
@@ -143,4 +143,4 @@ Build and run the frontend with `npm run build` and `npm run start`, or deploy i
 
 ## License
 
-No license is currently specified. Contact the project maintainers before redistributing or reusing this code.
+MIT License 
