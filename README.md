@@ -143,4 +143,4 @@ Build and run the frontend with `npm run build` and `npm run start`, or deploy i
 
 ## License
 
-No license is currently specified. Contact the project maintainers before redistributing or reusing this code.
+MIT license 
