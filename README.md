@@ -134,6 +134,8 @@ public/                Static assets
 
 Build and run the frontend with `npm run build` and `npm run start`, or deploy it to a platform that supports Next.js. Deploy the FastAPI backend as a separate Python service and set the appropriate service URLs in the frontend environment. Configure secrets through the deployment platform’s secret manager, and enable only the external integrations the deployment actually uses.
 
+applink:https://journeyjoy-two.vercel.app/auth
+
 ## Contributing
 
 1. Create a focused branch for your change.
